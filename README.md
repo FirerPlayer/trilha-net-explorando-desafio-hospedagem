@@ -1,4 +1,6 @@
 # DIO - Trilha .NET - Explorando a linguagem C#
+Minha solução ao desafio da trilha .Net da DIO. Um sistema de hospedagem em C# desenvolvido com conceitos de POO e Estrutura de Dados.
+
 www.dio.me
 
 ## Desafio de projeto
